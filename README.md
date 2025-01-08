@@ -28,8 +28,8 @@ This is a technical challenge to build a robust cinema seat booking system.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd cinema-booking-system
+git clone https://github.com/lucasferreiralsf/cinema-seats-booking-challenge.git
+cd cinema-seats-booking-challenge
 ```
 
 2. Start the application using Docker Compose:
@@ -105,6 +105,7 @@ Current features:
 ## 🤝 Author and useful links
 
 Lucas Ferreira
-Portfolio: [https://ferreiralucas.dev/en](https://ferreiralucas.dev/en)
-Linkedin: [https://www.linkedin.com/in/lucasferreiralsf/](https://www.linkedin.com/in/lucasferreiralsf/)
-Github: [https://github.com/lucasferreiralsf](https://github.com/lucasferreiralsf)
+
+- Portfolio: [https://ferreiralucas.dev/en](https://ferreiralucas.dev/en)
+- Linkedin: [https://www.linkedin.com/in/lucasferreiralsf/](https://www.linkedin.com/in/lucasferreiralsf/)
+- Github: [https://github.com/lucasferreiralsf](https://github.com/lucasferreiralsf)
